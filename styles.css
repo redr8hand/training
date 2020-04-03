@@ -1,0 +1,65 @@
+body {
+    background-color: #000000;
+  }
+  h1 {
+    color: rgb(255, 0, 0);
+    font-family: ubuntu;
+    font-size: large;
+  }
+  p {
+    color: rgb(255, 196, 0);
+    font-family: monospace;
+    font-size: medium;
+    border: 1px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+  }
+  
+  div {
+    display: block;
+  }
+
+  #p01 {
+    color: rgb(255, 0, 221);
+    font-family: monospace;
+    font-size: small;
+    border: 1px solid #ffffff;
+    padding: 30px;
+    margin: 10px;
+  }
+  #p02 {
+    color: rgb(0, 221, 48);
+    font-family: monospace;
+    font-size: smaller;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    margin: 50px;
+  }
+  #p03 {
+    color: rgb(255, 0, 0);
+    font-family: monospace;
+    font-size: x-small;
+    border: 1px solid #ffffff;
+    padding: 30px;
+    margin: 10px;
+  }
+  #p04 {
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: larger;
+    border: 1px solid #ffffff;
+    padding: 30px;
+    margin: 10px;
+  }
+  #p05 {
+    color: rgb(4, 0, 255);
+    font-family: monospace;
+    font-size: small;
+    border: 1px solid #ffffff;
+    padding: 30px;
+    margin: 10px;
+  }
+  p.error {
+    color: red;
+  }
+
